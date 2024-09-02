@@ -3,6 +3,7 @@
 RecipesHub is a full-stack web application for managing and sharing recipes. The project is divided into two main parts: the backend and the frontend.
 
 ## Getting Started
+Add the config variables in config/config.env
 
 ### Backend Setup
 
